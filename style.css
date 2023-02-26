@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+}
+
+#h{
+	color: orange;
+	text-align: center;
+}
+
+.a{
+	color: yellow;
+	text-align: center;
+}
+#left{
+	color: blue;
+	text-align: left;
+}
+#right{
+	color: green;
+	text-align: right;
+}
